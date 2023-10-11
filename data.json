@@ -1,0 +1,25 @@
+{
+    "name": "SDGs",
+    "children": [
+        {
+            "name": "SDG 1",
+            "value": 165.55
+        },
+        {
+            "name": "SDG 2",
+            "value": 142.49
+        },
+        {
+            "name": "SDG 3",
+            "value": 238.74
+        },
+        {
+            "name": "SDG 4",
+            "value": 176.41
+        },
+        {
+            "name": "SDG 5",
+            "value": 242.60
+        }
+    ]
+}
